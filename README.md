@@ -14,4 +14,5 @@ Bachelor and Master degrees in Finance and Economics.
 ## 04 – Data Analytics
 Power BI, data modeling, and analytics certifications.
 
-All documents are provided in PDF format for professional portfolio purposes.
+## 05 - Financial Modeling Portfolio
+Documents are provided in EXCEL format.
